@@ -1,0 +1,6 @@
+webpack main.js dist/bundle.js
+webpack // with webpackconfig.js in the current path
+webpack --watch
+webpack-dev-server // provide a webserver
+                    // and the files are server in memory so they aren't locally
+                    
