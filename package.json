@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.16.6",
+    "raw-loader": "^0.5.1",
+    "string-replace-loader": "^1.0.5",
     "webpack": "^1.13.3"
   }
 }

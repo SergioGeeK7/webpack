@@ -1,5 +1,5 @@
 module.exports = {
   sayHello: function (){
-    return "Hellow";
+    return "Hellow from another moduleeee";
   }
 }
